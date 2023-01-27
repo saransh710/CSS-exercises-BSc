@@ -5,8 +5,9 @@
 
 .yellow {
   background-color: yellow;
-  color: red;
+  color: black;
 }
 .black, .red {
-  font: 28px 'Helvetica', 'Times New Roman', sans-serif;
+  font: 28px;
+   font-family:'Helvetica', 'Times New Roman', sans-serif;
 }
