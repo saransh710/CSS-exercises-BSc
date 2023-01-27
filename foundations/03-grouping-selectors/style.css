@@ -7,3 +7,6 @@
   background-color: red;
   color: white;
 }
+.black, .red {
+  font: 28px 'Helvetica', 'Times New Roman', sans-serif;
+}
