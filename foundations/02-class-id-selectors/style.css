@@ -1,0 +1,15 @@
+.odd{
+  background-color: pink;
+  font-family: verdana,"DejaVuS ans",sans-serif;
+}
+
+.even{
+    color: blue;
+    font-size: 36px;
+}
+#green{
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+    color: black;
+}
