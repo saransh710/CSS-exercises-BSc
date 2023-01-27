@@ -1,6 +1,8 @@
 div.container > p {
-  body-color:yellow;
+  background:yellow;
   color:red;
+  text-align:center;
+
 }
 div.container p {
   /* styles for p elements within div.container */
