@@ -1,0 +1,7 @@
+div.container > p {
+  body-color:yellow;
+  color:red;
+}
+div.container p {
+  /* styles for p elements within div.container */
+}
