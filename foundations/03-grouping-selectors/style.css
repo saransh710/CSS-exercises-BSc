@@ -3,9 +3,9 @@
   color: white;
 }
 
-.red {
-  background-color: red;
-  color: white;
+.yellow {
+  background-color: yellow;
+  color: red;
 }
 .black, .red {
   font: 28px 'Helvetica', 'Times New Roman', sans-serif;
